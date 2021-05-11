@@ -3,7 +3,7 @@ Design Patterns in JavaScript
 
 ### Certifications
 
-- [Design Patterns in JavaScript](https://nlb.udemy.com/certificate/UC-28b27cfa-c110-48da-a4bb-be904781b1ef/)
+- [Design Patterns in JavaScript](https://udemy.com/certificate/UC-28b27cfa-c110-48da-a4bb-be904781b1ef/)
 
 ### Awknowledgements
 
